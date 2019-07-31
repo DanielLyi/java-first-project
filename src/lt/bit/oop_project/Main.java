@@ -1,6 +1,5 @@
-package lt.bit.gym;
+package lt.bit.oop_project;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
@@ -26,6 +25,6 @@ public class Main {
         * weight
         * call bmi counter
         * export to .txt*/
-        
+
     }
 }

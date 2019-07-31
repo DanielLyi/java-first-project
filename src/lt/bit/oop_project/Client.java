@@ -1,4 +1,4 @@
-package lt.bit.gym;
+package lt.bit.oop_project;
 
 public abstract class Client extends Object implements Connector {
 
